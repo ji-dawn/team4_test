@@ -1,0 +1,1 @@
+alert('Shin 에서 생성한 JS')
